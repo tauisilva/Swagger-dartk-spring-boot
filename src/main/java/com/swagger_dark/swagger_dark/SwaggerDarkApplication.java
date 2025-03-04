@@ -1,4 +1,4 @@
-package com.swagger_dark;
+package com.swagger_dark.swagger_dark;
 
 import io.swagger.v3.oas.annotations.OpenAPIDefinition;
 import io.swagger.v3.oas.annotations.enums.SecuritySchemeIn;
